@@ -1,0 +1,861 @@
+fileFormatVersion: 2
+guid: a7941717ca0aace45a090182809f9073
+timeCreated: 1463693956
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: goblAttackSheet_0
+    21300002: goblAttackSheet_1
+    21300004: goblAttackSheet_2
+    21300006: goblAttackSheet_3
+    21300008: goblAttackSheet_4
+    21300010: goblAttackSheet_5
+    21300012: goblAttackSheet_6
+    21300014: goblAttackSheet_7
+    21300016: goblAttackSheet_8
+    21300018: goblAttackSheet_9
+    21300020: goblAttackSheet_10
+    21300022: goblAttackSheet_11
+    21300024: goblAttackSheet_12
+    21300026: goblAttackSheet_13
+    21300028: goblAttackSheet_14
+    21300030: goblAttackSheet_15
+    21300032: goblAttackSheet_16
+    21300034: goblAttackSheet_17
+    21300036: goblAttackSheet_18
+    21300038: goblAttackSheet_19
+    21300040: goblAttackSheet_20
+    21300042: goblAttackSheet_21
+    21300044: goblAttackSheet_22
+    21300046: goblAttackSheet_23
+    21300048: goblAttackSheet_24
+    21300050: goblAttackSheet_25
+    21300052: goblAttackSheet_26
+    21300054: goblAttackSheet_27
+    21300056: goblAttackSheet_28
+    21300058: goblAttackSheet_29
+    21300060: goblAttackSheet_30
+    21300062: goblAttackSheet_31
+    21300064: goblAttackSheet_32
+    21300066: goblAttackSheet_33
+    21300068: goblAttackSheet_34
+    21300070: goblAttackSheet_35
+    21300072: goblAttackSheet_36
+    21300074: goblAttackSheet_37
+    21300076: goblAttackSheet_38
+    21300078: goblAttackSheet_39
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: goblAttackSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 18.5}
+        - {x: -8, y: -18.5}
+        - {x: 14, y: -18.5}
+        - {x: 20, y: -16.5}
+        - {x: 20, y: 1.5}
+        - {x: 15, y: 9.5}
+        - {x: 6, y: 17.5}
+        - {x: 3, y: 18.5}
+    - name: goblAttackSheet_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 111
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 18.5}
+        - {x: -8, y: -18.5}
+        - {x: 9, y: -18.5}
+        - {x: 17, y: 2.5}
+        - {x: 17, y: 18.5}
+    - name: goblAttackSheet_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 111
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 18.5}
+        - {x: -16, y: 17.5}
+        - {x: -19, y: 14.5}
+        - {x: -19, y: 10.5}
+        - {x: -18, y: 7.5}
+        - {x: -9, y: -18.5}
+        - {x: 11, y: -18.5}
+        - {x: 13, y: -10.5}
+        - {x: 13, y: 9.5}
+        - {x: 4, y: 18.5}
+    - name: goblAttackSheet_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 111
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 18.5}
+        - {x: -20, y: 16.5}
+        - {x: -20, y: 5.5}
+        - {x: -8, y: -18.5}
+        - {x: 9, y: -18.5}
+        - {x: 16, y: -5.5}
+        - {x: 16, y: 4.5}
+        - {x: 7, y: 18.5}
+    - name: goblAttackSheet_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 111
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 18.5}
+        - {x: -8, y: 15.5}
+        - {x: -8, y: -18.5}
+        - {x: 11, y: -18.5}
+        - {x: 20, y: -15.5}
+        - {x: 20, y: 9.5}
+        - {x: 4, y: 18.5}
+    - name: goblAttackSheet_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 111
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 18.5}
+        - {x: -20, y: 5.5}
+        - {x: -20, y: -18.5}
+        - {x: 8, y: -18.5}
+        - {x: 8, y: 18.5}
+    - name: goblAttackSheet_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 111
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 18.5}
+        - {x: -5, y: 18.5}
+        - {x: -15, y: 9.5}
+        - {x: -16, y: 1.5}
+        - {x: -16, y: -5.5}
+        - {x: -9, y: -18.5}
+        - {x: 8, y: -18.5}
+        - {x: 20, y: 2.5}
+        - {x: 20, y: 17.5}
+    - name: goblAttackSheet_7
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 111
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 18.5}
+        - {x: -5, y: 18.5}
+        - {x: -13, y: 12.5}
+        - {x: -13, y: -4.5}
+        - {x: -10, y: -18.5}
+        - {x: 8, y: -18.5}
+        - {x: 19, y: 9.5}
+        - {x: 19, y: 14.5}
+        - {x: 15, y: 16.5}
+    - name: goblAttackSheet_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 111
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 18.5}
+        - {x: -17, y: 15.5}
+        - {x: -17, y: -4.5}
+        - {x: -10, y: -18.5}
+        - {x: 8, y: -18.5}
+        - {x: 8, y: 18.5}
+    - name: goblAttackSheet_9
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 111
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 18.5}
+        - {x: -4, y: 18.5}
+        - {x: -7, y: 17.5}
+        - {x: -16, y: 9.5}
+        - {x: -20, y: 3.5}
+        - {x: -20, y: -18.5}
+        - {x: 8, y: -18.5}
+        - {x: 8, y: 14.5}
+        - {x: 7, y: 17.5}
+    - name: goblAttackSheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -15.5}
+        - {x: -8, y: -18.5}
+        - {x: 15, y: -18.5}
+        - {x: 15, y: 18.5}
+        - {x: -6, y: 18.5}
+        - {x: -9, y: 11.5}
+    - name: goblAttackSheet_11
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 74
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 18.5}
+        - {x: -8, y: 11.5}
+        - {x: -8, y: -18.5}
+        - {x: 9, y: -18.5}
+        - {x: 14, y: -17.5}
+        - {x: 15, y: -13.5}
+        - {x: 15, y: 0.5}
+        - {x: 10, y: 18.5}
+    - name: goblAttackSheet_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 74
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 18.5}
+        - {x: -10, y: 14.5}
+        - {x: -9, y: -16.5}
+        - {x: -7, y: -18.5}
+        - {x: 9, y: -18.5}
+        - {x: 14, y: -17.5}
+        - {x: 15, y: -13.5}
+        - {x: 15, y: 0.5}
+        - {x: 10, y: 18.5}
+    - name: goblAttackSheet_13
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 74
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 18.5}
+        - {x: -11, y: 16.5}
+        - {x: -11, y: -6.5}
+        - {x: -7, y: -18.5}
+        - {x: 12, y: -18.5}
+        - {x: 14, y: -17.5}
+        - {x: 20, y: -3.5}
+        - {x: 20, y: 2.5}
+        - {x: 10, y: 18.5}
+    - name: goblAttackSheet_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 74
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 18.5}
+        - {x: -9, y: 12.5}
+        - {x: -9, y: -13.5}
+        - {x: -8, y: -16.5}
+        - {x: -6, y: -18.5}
+        - {x: 9, y: -18.5}
+        - {x: 14, y: -17.5}
+        - {x: 15, y: -13.5}
+        - {x: 15, y: 4.5}
+        - {x: 10, y: 18.5}
+    - name: goblAttackSheet_15
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 74
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 18.5}
+        - {x: -11, y: 18.5}
+        - {x: -15, y: 4.5}
+        - {x: -15, y: -14.5}
+        - {x: -13, y: -16.5}
+        - {x: -9, y: -18.5}
+        - {x: 5, y: -18.5}
+        - {x: 9, y: -12.5}
+        - {x: 9, y: 4.5}
+        - {x: 8, y: 16.5}
+    - name: goblAttackSheet_16
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 74
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 18.5}
+        - {x: -11, y: 18.5}
+        - {x: -20, y: 9.5}
+        - {x: -20, y: -16.5}
+        - {x: -19, y: -18.5}
+        - {x: 6, y: -18.5}
+        - {x: 9, y: -16.5}
+        - {x: 11, y: 8.5}
+        - {x: 11, y: 16.5}
+    - name: goblAttackSheet_17
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 74
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 18.5}
+        - {x: -15, y: 10.5}
+        - {x: -15, y: -17.5}
+        - {x: -14, y: -18.5}
+        - {x: 6, y: -18.5}
+        - {x: 8, y: -16.5}
+        - {x: 10, y: 6.5}
+        - {x: 10, y: 15.5}
+        - {x: 7, y: 18.5}
+    - name: goblAttackSheet_18
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 74
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 18.5}
+        - {x: -15, y: 7.5}
+        - {x: -15, y: -16.5}
+        - {x: -13, y: -18.5}
+        - {x: 7, y: -18.5}
+        - {x: 8, y: -17.5}
+        - {x: 8, y: 8.5}
+        - {x: 6, y: 18.5}
+    - name: goblAttackSheet_19
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 74
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -0.5}
+        - {x: -15, y: -17.5}
+        - {x: -14, y: -18.5}
+        - {x: 7, y: -18.5}
+        - {x: 9, y: -17.5}
+        - {x: 9, y: 9.5}
+        - {x: 6, y: 18.5}
+        - {x: -10, y: 18.5}
+        - {x: -12, y: 11.5}
+    - name: goblAttackSheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 37
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 18.5}
+        - {x: -9, y: -8.5}
+        - {x: -9, y: -13.5}
+        - {x: -6, y: -18.5}
+        - {x: 13, y: -18.5}
+        - {x: 16, y: -17.5}
+        - {x: 16, y: 6.5}
+        - {x: 7, y: 18.5}
+    - name: goblAttackSheet_21
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 37
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 18.5}
+        - {x: -7, y: 18.5}
+        - {x: -9, y: -8.5}
+        - {x: -9, y: -13.5}
+        - {x: -3, y: -18.5}
+        - {x: 11, y: -18.5}
+        - {x: 16, y: -6.5}
+        - {x: 18, y: -1.5}
+        - {x: 18, y: 12.5}
+    - name: goblAttackSheet_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 37
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 18.5}
+        - {x: -7, y: 18.5}
+        - {x: -9, y: -7.5}
+        - {x: -9, y: -13.5}
+        - {x: -3, y: -18.5}
+        - {x: 11, y: -18.5}
+        - {x: 16, y: 0.5}
+        - {x: 16, y: 10.5}
+    - name: goblAttackSheet_23
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 37
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 18.5}
+        - {x: -9, y: 11.5}
+        - {x: -9, y: -16.5}
+        - {x: -5, y: -18.5}
+        - {x: 11, y: -18.5}
+        - {x: 14, y: -6.5}
+        - {x: 14, y: 12.5}
+        - {x: 12, y: 18.5}
+    - name: goblAttackSheet_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 37
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 18.5}
+        - {x: -9, y: -7.5}
+        - {x: -9, y: -13.5}
+        - {x: -3, y: -18.5}
+        - {x: 13, y: -18.5}
+        - {x: 16, y: -15.5}
+        - {x: 16, y: 5.5}
+        - {x: 9, y: 18.5}
+    - name: goblAttackSheet_25
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 37
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 18.5}
+        - {x: -9, y: 18.5}
+        - {x: -16, y: 12.5}
+        - {x: -16, y: -14.5}
+        - {x: -12, y: -18.5}
+        - {x: 5, y: -18.5}
+        - {x: 9, y: -12.5}
+        - {x: 9, y: 17.5}
+    - name: goblAttackSheet_26
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 37
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 18.5}
+        - {x: -14, y: 11.5}
+        - {x: -14, y: -8.5}
+        - {x: -10, y: -18.5}
+        - {x: 8, y: -18.5}
+        - {x: 9, y: -13.5}
+        - {x: 9, y: 12.5}
+        - {x: 7, y: 18.5}
+    - name: goblAttackSheet_27
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 37
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 18.5}
+        - {x: -9, y: 18.5}
+        - {x: -16, y: 14.5}
+        - {x: -16, y: -15.5}
+        - {x: -15, y: -18.5}
+        - {x: 7, y: -18.5}
+        - {x: 9, y: -12.5}
+        - {x: 9, y: 17.5}
+    - name: goblAttackSheet_28
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 37
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 18.5}
+        - {x: -6, y: 18.5}
+        - {x: -18, y: 11.5}
+        - {x: -18, y: -1.5}
+        - {x: -9, y: -18.5}
+        - {x: 5, y: -18.5}
+        - {x: 9, y: -12.5}
+        - {x: 9, y: 2.5}
+        - {x: 8, y: 16.5}
+    - name: goblAttackSheet_29
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 37
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 18.5}
+        - {x: -16, y: 5.5}
+        - {x: -16, y: -11.5}
+        - {x: -13, y: -18.5}
+        - {x: 8, y: -18.5}
+        - {x: 9, y: -14.5}
+        - {x: 9, y: 13.5}
+        - {x: 7, y: 18.5}
+    - name: goblAttackSheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 14.5}
+        - {x: -15, y: -9.5}
+        - {x: -15, y: -13.5}
+        - {x: -9, y: -18.5}
+        - {x: 11, y: -18.5}
+        - {x: 15, y: -15.5}
+        - {x: 15, y: -2.5}
+        - {x: 13, y: 14.5}
+    - name: goblAttackSheet_31
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 18.5}
+        - {x: -10, y: 18.5}
+        - {x: -12, y: 17.5}
+        - {x: -12, y: -1.5}
+        - {x: -9, y: -18.5}
+        - {x: 11, y: -18.5}
+        - {x: 15, y: -17.5}
+        - {x: 15, y: 0.5}
+        - {x: 12, y: 15.5}
+    - name: goblAttackSheet_32
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 18.5}
+        - {x: -12, y: 18.5}
+        - {x: -12, y: -8.5}
+        - {x: -11, y: -18.5}
+        - {x: 11, y: -18.5}
+        - {x: 15, y: -17.5}
+        - {x: 15, y: 0.5}
+        - {x: 12, y: 15.5}
+    - name: goblAttackSheet_33
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 15.5}
+        - {x: 1, y: 18.5}
+        - {x: -12, y: 18.5}
+        - {x: -12, y: -9.5}
+        - {x: -11, y: -18.5}
+        - {x: 10, y: -18.5}
+        - {x: 13, y: -4.5}
+        - {x: 14, y: -0.5}
+        - {x: 14, y: 11.5}
+    - name: goblAttackSheet_34
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 14.5}
+        - {x: -6, y: 13.5}
+        - {x: -6, y: 7.5}
+        - {x: -10, y: 13.5}
+        - {x: -13, y: 12.5}
+        - {x: -15, y: 4.5}
+        - {x: -15, y: -13.5}
+        - {x: -9, y: -18.5}
+        - {x: 11, y: -18.5}
+        - {x: 15, y: -15.5}
+        - {x: 15, y: -2.5}
+        - {x: 13, y: 14.5}
+    - name: goblAttackSheet_35
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 18.5}
+        - {x: -18, y: 0.5}
+        - {x: -18, y: -11.5}
+        - {x: -14, y: -18.5}
+        - {x: 10, y: -18.5}
+        - {x: 12, y: -15.5}
+        - {x: 12, y: 3.5}
+        - {x: 10, y: 18.5}
+    - name: goblAttackSheet_36
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 18.5}
+        - {x: -13, y: 15.5}
+        - {x: -13, y: -18.5}
+        - {x: 12, y: -18.5}
+        - {x: 12, y: 11.5}
+        - {x: 10, y: 18.5}
+    - name: goblAttackSheet_37
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 18.5}
+        - {x: -14, y: -3.5}
+        - {x: -12, y: -18.5}
+        - {x: 12, y: -18.5}
+        - {x: 12, y: 9.5}
+        - {x: 9, y: 18.5}
+    - name: goblAttackSheet_38
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 18.5}
+        - {x: -14, y: -16.5}
+        - {x: -13, y: -18.5}
+        - {x: 10, y: -18.5}
+        - {x: 10, y: 4.5}
+        - {x: 6, y: 18.5}
+    - name: goblAttackSheet_39
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 18.5}
+        - {x: -18, y: 16.5}
+        - {x: -18, y: -8.5}
+        - {x: -17, y: -18.5}
+        - {x: 12, y: -18.5}
+        - {x: 12, y: 4.5}
+        - {x: 10, y: 18.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
